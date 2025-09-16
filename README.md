@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently testing out the Bmad method on a small KMP project. Wish me luck 🍀!
+- 🌱 I’m currently learning more about MCP and agentic development
 
 <!--
 **PerturbedSpark/PerturbedSpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
